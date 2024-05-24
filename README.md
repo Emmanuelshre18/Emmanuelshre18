@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuel Ehis
 - 👀 I’m interested in learning new technologies
-- 🌱 technologied i've learnd & still learning: java, PHP, JSP, SOAP WEB SERVICE, flutter, Wordpress, HTML,CSS, JAVASCRIPT..... and many more. 
+- 🌱 technologied i've learnd & still learning: java, PHP, JSP, DevOps, Wordpress, HTML,CSS, JAVASCRIPT..... and many more. 
 - 💞️ I available to help out on business, private projects or creating fun stuffs  😎 
 - 📫 How to reach me emmaehichioyashre@gmail.com
 
